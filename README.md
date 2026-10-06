@@ -1,3 +1,4 @@
+![screenshot](virtual-py.png)
 # 🐍 Python Virtual Environment Manager
 
 A single-file, Tkinter-based GUI application for managing Python virtual
