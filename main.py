@@ -1,18 +1,4 @@
 
----
-
-# 📄 `venv_manager.py` — English version (full source)
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-🐍 venv_manager.py — Python Virtual Environment Manager (English UI)
-
-Single-file Tkinter GUI for managing Python virtual environments
-on Windows, Linux, and macOS. Includes a built-in code editor and
-a script runner with live output.
-"""
 
 import os
 import shutil
